@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabriel.otrotti\\source\\repos\\Imperio da pizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51748E27-0E99-4626-96D9-B5165A0B85CD}|Imperio da pizza\\Imperio da pizza.csproj|c:\\users\\gabriel.otrotti\\source\\repos\\imperio da pizza\\imperio da pizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51748E27-0E99-4626-96D9-B5165A0B85CD}|Imperio da pizza\\Imperio da pizza.csproj|solutionrelative:imperio da pizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.otrotti\\source\\repos\\Imperio da pizza\\Imperio da pizza\\Program.cs",
+              "RelativeDocumentMoniker": "Imperio da pizza\\Program.cs",
+              "ToolTip": "C:\\Users\\gabriel.otrotti\\source\\repos\\Imperio da pizza\\Imperio da pizza\\Program.cs",
+              "RelativeToolTip": "Imperio da pizza\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:32:52.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

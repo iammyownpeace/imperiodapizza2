@@ -1,0 +1,7 @@
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\bin\Debug\Imperio da pizza.exe.config
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\bin\Debug\Imperio da pizza.exe
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\bin\Debug\Imperio da pizza.pdb
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\obj\Debug\Imperio da pizza.csproj.AssemblyReference.cache
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\obj\Debug\Imperio da pizza.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\obj\Debug\Imperio da pizza.exe
+C:\Users\gabriel.otrotti\source\repos\Imperio da pizza\Imperio da pizza\obj\Debug\Imperio da pizza.pdb
